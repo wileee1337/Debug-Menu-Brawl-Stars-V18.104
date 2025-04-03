@@ -1,5 +1,6 @@
 # Debug-Menu-Brawl-Stars-V18.104
 Debug menu on the version from Bibi (Retropolis)
+I DON'T KNOW WHO THE CREATOR IS, SO I CAN'T GIVE CREDITS!!!
 
 What functions work?
 1. Restart Game (P)
